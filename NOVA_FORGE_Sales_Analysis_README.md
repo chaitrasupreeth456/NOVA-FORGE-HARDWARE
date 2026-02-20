@@ -3,7 +3,7 @@
 
 ## 🚀 Project Overview
 
-**NOVA FORGE Hardware** is a premier manufacturer and distributor of high-performance computing solutions. From personal computers to precision peripherals, the company delivers quality engineering to a global market.
+**NOVA FORGE Hardware** is a premier manufacturer and distributor of high-performance computing solutions. They manufacture from personal computers to precision peripherals, the company delivers quality engineering to a global market.
 
 Products are distributed through:
 - 🏬 Retail partners: Croma, Best Buy
@@ -155,28 +155,14 @@ Bottom 5:
 
 ---
 
-# 🧠 Key Strategic Insights
+# 🧠 Technical Skills
 
-- Strong revenue scaling  
-- Margin pressure rising  
-- D2C outperforming marketplaces  
-- Forecast recalibration needed  
-- India = volume engine  
-- NZ = efficiency leader  
-- COGS optimization critical  
+- Proficient in ETL methodology (Extract, Transform, Load).
+- Skillful in creating date tables using Power Query.
+- Capable of deriving fiscal months and quarters.
+- Establishing data model relationships with Power Pivot.
+- Integrating supplementary data into existing data models.
+- Skilled in using DAX to create calculated columns and measures.
+ 
 
----
 
-# 🛠 Tools Used
-
-- Microsoft Excel  
-- Power Query  
-- Pivot Tables  
-- Financial KPI Analysis  
-
----
-
-# 📎 Author
-
-Sales & Financial Analysis Case Study  
-Data-driven insights for strategic decision-making
