@@ -10,7 +10,7 @@ Products are distributed through:
 - 🛒 E-commerce platforms: Amazon, Flipkart
 - 🏢 Direct-to-Consumer channels: Nova Forge Exclusive, e-Store
 
-This project leverages an Excel-based Business Intelligence solution to analyze sales performance and financial health from 2019–2021, transforming raw data into actionable insights.
+This project leverages an Excel-based Business Intelligence solution to analyze sales performance and financial health transforming raw data into actionable insights.
 
 ---
 
@@ -27,9 +27,9 @@ The goal of this analysis is to:
 
 ---
 
-# 📈 1️⃣ Customer Performance Report (2019–2021)
+# 1️⃣ Customer Performance Report (2019–2021)
 
-## 🔥 Exponential Revenue Scalability
+ ## 🔥 Exponential Revenue Scalability
 
 - Total Net Sales grew 584% in 2 years  
   - $87.5M (2019) → $598.9M (2021)  
@@ -37,7 +37,7 @@ The goal of this analysis is to:
 
 ---
 
-## 🛍 Direct-to-Consumer (D2C) Strength
+ ## 🛍 Direct-to-Consumer (D2C) Strength
 
 - Amazon Revenue: $82.1M  
 - Nova Forge Exclusive + e-Store: $114.1M (2021)
@@ -46,29 +46,29 @@ D2C channels likely drive higher margins and better customer data ownership.
 
 ---
 
-## ⭐ Rising Star Partners
+ ## ⭐ Rising Star Partners
 
 - Integration Stores: 887.2% growth  
 - Chiptec: 722.0% growth  
 
 ---
 
-# 🌍 2️⃣ Market Performance vs Sales Target
+# 2️⃣ Market Performance vs Sales Target
 
-## 📊 Forecast Accuracy
+ ## 📊 Forecast Accuracy
 
 - Identified 8.4% systemic over-forecasting across 23 regions
 
 ---
 
-## 📈 Growth vs Target Reality
+ ## 📈 Growth vs Target Reality
 
 - Market grew from 196.7M (2020) → 598.9M (2021)
 - Business tripled in size
 
 ---
 
-## ⚠ Underperforming Markets
+ ## ⚠ Underperforming Markets
 
 - Poland: -15.3%  
 - Canada: -12.6%  
@@ -82,7 +82,7 @@ Largest revenue gaps:
 
 ---
 
-# 🆕 3️⃣ New Products – 2021 Performance
+# 3️⃣ New Products – 2021 Performance
 
 - 16 new products launched  
 - Total Revenue Contribution: $176.2M  
@@ -99,15 +99,15 @@ Lagging:
 
 ---
 
-# 💰 4️⃣ Profit & Loss by Market
+# 4️⃣ Profit & Loss by Market
 
-## 🥇 Margin Leaders
+ ## 🥇 Margin Leaders
 
 - New Zealand: 44.98%  
 - Japan: 44.68%  
 - France: 43.31%  
 
-## 🌎 Revenue Powerhouses
+ ## 🌎 Revenue Powerhouses
 
 India, USA, South Korea  
 Combined Net Sales: $452.2M (51.2%)
@@ -123,7 +123,7 @@ COGS exceeds 69% of Net Sales.
 
 ---
 
-# 📅 5️⃣ Profit & Loss by Month
+# 5️⃣ Profit & Loss by Month
 
 Revenue Growth:
 - 2019 → 2020: +124.8%  
@@ -139,7 +139,7 @@ March 2020 disruption:
 
 ---
 
-# 📦 6️⃣ Top 5 & Bottom 5 Products (By Quantity)
+# 6️⃣ Top 5 & Bottom 5 Products (By Quantity)
 
 Top 5 growth:
 - 2020: 6M units  
